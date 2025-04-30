@@ -1,2 +1,11 @@
 # Nagasawa_et_al_2025
-Convergent evolutionary deadend and breakdown of hard chorion in  parental-egg-care fish reproductive strategies
+Titile: Convergent evolutionary deadend and breakdown of hard chorion in  parental-egg-care fish reproductive strategies
+
+Access: https://www.authorea.com/doi/full/10.22541/au.174289826.62102609/v1
+
+Author: Tatsuki Nagasawa, Nagatoshi Machii, Mitsuto Aibara, Mari Kawaguchi, Shigeki Yasumasu, Masato Nikaido
+
+Abstract:
+Fish exhibit a diverse array of reproductive strategies adapted to various ecological niches. Parental egg-care, including live-bearing, mouth-brooding, and male egg protection by brood pouches, represents an effective strategy for ensuring larval survival and has emerged independently in multiple lineages. Despite the recognized evolutionary bias that favors a strategy transition from non-carer to egg-carer, the genetic mechanisms underlying this bias and the commonalities among parental egg-care species remain elusive. This study explores the relationship between egg-care and the chorion hardening system crucial for protecting eggs in non-care species. By analyzing whole genome sequences of 240 species of Acanthopterygii fish across 25 orders, we discovered that multiple genes associated with chorion hardening have become pseudogenes in various egg-care species, indicating a collapse of the chorion hardening system in these fish. These findings suggest that the evolutionary bias in fish reproductive strategies not only aims to enhance survival efficiency but also imposes a constraint on egg-care species, preventing them from reverting to a reproductive strategy for relying on a hardened chorion. In particular, alveolin, previously characterized as a single mutant resulting in significantly fragile chorion in medaka, suggests a strong correlation between egg-care strategy and gene loss. Our results suggest an evolutionary deadend because gene loss may impose an evolutionary constraint at the behavioral level. The observed association between gene loss and reproductive strategies provides insights into suitable reproductive environments for each species and may facilitate non-invasive estimation of reproductive strategies in species with unknown breeding strategies.
+
+Keywords: chorion, evolution, fish, pseudogenes, reproductive strategy
