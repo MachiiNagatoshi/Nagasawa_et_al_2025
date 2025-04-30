@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# set SRR_LIST and WORK_DIR (Choose one set of WORK_DIR and SRR_LIST)
+# set SRR_LIST and WORK_DIR (Choose one set when you run)
 ## P. formosa Liver
 WORK_DIR=/home/nakaharu/HDD5/machii/241107_Trinity_Pformosa_Lv
 SRR_LIST=(SRR13349683 SRR13349686 SRR13349689 SRR13349692)
