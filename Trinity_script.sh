@@ -5,29 +5,33 @@
 WORK_DIR=/home/nakaharu/HDD5/machii/241107_Trinity_Pformosa_Lv
 SRR_LIST=(SRR13349683 SRR13349686 SRR13349689 SRR13349692)
 
-## P. formosa Ovary
-WORK_DIR=/home/nakaharu/HDD5/machii/241107_Trinity_Pformosa_Ov
-SRR_LIST=(SRR13349684 SRR13349687 SRR13349690 SRR13349693)
+# ## P. formosa Ovary
+# WORK_DIR=/home/nakaharu/HDD5/machii/241107_Trinity_Pformosa_Ov
+# SRR_LIST=(SRR13349684 SRR13349687 SRR13349690 SRR13349693)
 
-## O. latipes Liver
-WORK_DIR=/home/nakaharu/HDD5/machii/241107_Trinity_Olatipes_Lv
-SRR_LIST=(SRR27475147 SRR27475148 SRR27475149)
+# ## P. mexicana Liver
+# WORK_DIR=/home/nakaharu/HDD5/machii/241107_Trinity_Pformosa_Lv
+# SRR_LIST=(SRR5224072 SRR5224073 SRR5224074 SRR5224075)
 
-## O. latipes Ovary
-WORK_DIR=/home/nakaharu/HDD5/machii/241107_Trinity_Olatipes_Ov
-SRR_LIST=(SRR23648299 SRR23648300 SRR23648301)
+# ## O. latipes Liver
+# WORK_DIR=/home/nakaharu/HDD5/machii/241107_Trinity_Olatipes_Lv
+# SRR_LIST=(SRR27475147 SRR27475148 SRR27475149)
 
-## H. abdominalis Ovary
-WORK_DIR=/home/nakaharu/HDD5/machii/241107_Trinity_Habdominalis_Ov
-SRR_LIST=(SRR15058210 SRR15058211)
+# ## O. latipes Ovary
+# WORK_DIR=/home/nakaharu/HDD5/machii/241107_Trinity_Olatipes_Ov
+# SRR_LIST=(SRR23648299 SRR23648300 SRR23648301)
 
-## B. splendens Ovary
-WORK_DIR=/home/nakaharu/HDD5/machii/241107_Trinity_Bsplendens_Ov
-SRR_LIST=(SRR18098736 SRR18098737 SRR18098738 SRR18098739 SRR18098740)
+# ## H. abdominalis Ovary
+# WORK_DIR=/home/nakaharu/HDD5/machii/241107_Trinity_Habdominalis_Ov
+# SRR_LIST=(SRR15058210 SRR15058211)
 
-## A. testudineus Liver
-WORK_DIR=/home/nakaharu/HDD5/machii/241107_Trinity_Atestudineus_Lv
-SRR_LIST=(SRR8885640 SRR8885644 SRR8885645 SRR8885647 SRR8885653 SRR8885654 SRR8885656 SRR8885657)
+# ## B. splendens Ovary
+# WORK_DIR=/home/nakaharu/HDD5/machii/241107_Trinity_Bsplendens_Ov
+# SRR_LIST=(SRR18098736 SRR18098737 SRR18098738 SRR18098739 SRR18098740)
+
+# ## A. testudineus Liver
+# WORK_DIR=/home/nakaharu/HDD5/machii/241107_Trinity_Atestudineus_Lv
+# SRR_LIST=(SRR8885640 SRR8885644 SRR8885645 SRR8885647 SRR8885653 SRR8885654 SRR8885656 SRR8885657)
 
 OUTPUT_DIR=${WORK_DIR}/out
 
